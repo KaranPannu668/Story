@@ -1,1 +1,2 @@
 The second chapter of the course.
+Side branch chapter2.
